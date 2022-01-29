@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    background-color:black;
+    color:white;
+    font-size: 50px;
+    margin-top: 0px;
+    padding-bottom: 5px;
+}
+#header{
+    margin-top: 0px;
+    font-size: 70px;
+}
+.label{
+    font-size: 30px;
+    color:white;
+}
+#Object_Name{
+    font-size:18px;
+    color:black;
+    width:400px;
+    height:40px;
+}
+#Start{
+font-size:24px;
+margin-top: 50px;
+}
+canvas{
+    border:2px solid black;
+    border-radius:20px;
+    background-color:lightslategray;
+    box-shadow: 5px 5px 10px white;
+    margin-top: 300px;
+}
